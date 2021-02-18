@@ -17,7 +17,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
         <!-- dependency versions -->
-        <project.version.spring-boot>2.3.6.RELEASE</project.version.spring-boot>
+        <project.version.spring-boot>2.4.3</project.version.spring-boot>
     </properties>
 
     <dependencyManagement>
